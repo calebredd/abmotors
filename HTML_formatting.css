@@ -1,0 +1,140 @@
+nav{
+    left:0;
+    margin:0px;
+    padding:0px;
+    position:relative;
+}
+.header{
+    background-color:black;
+    color:white;
+}
+
+.socialBtn{
+    background:#a53a3d;
+    width:25px;
+    height:25px;
+    color:white;
+    border-radius:50%;
+    position:relative;
+    font-size:20px;
+                    
+}
+body{	
+    position:relative;
+    background-color:#FFF;
+    max-width:100%;
+    color:black;
+}
+.material-icons{
+    position:relative;
+}
+.socialBtn:hover{
+    background-color:black;
+    border:2px solid #a53a3d;
+    max-width:30px;
+    max-height:30px;
+}
+
+.navbar{
+    position:relative;
+    margin:auto;
+    
+}
+.tab:hover{
+    color:#a53a3d;
+}
+.tab{
+    font-size:15px;
+}
+.nav div a{
+    text-decoration:none;
+}
+.nav div:first-child{color:#a53a3d;}
+#request{
+    color:white;
+    background-color:#a53a3d;
+    position:fixed;
+    right:0;
+    font-size:20px;
+    top:30%;
+    padding:25px 20px;
+    border-radius:15px 0 0 15px;
+    z-index:4;
+}
+#request:hover{
+    background-color:#999;
+}
+.slideshow{
+    position:relative;
+    mkax-width:100%;
+    background:url("https://s3-media3.fl.yelpcdn.com/bphoto/Tyb-x4J6cG26dJpk0CGngQ/o.jpg");
+    background-size:cover;
+    background-position:0 40%;
+    color:#fff;
+    border-bottom:16px solid #999;			
+}
+.slideshow p{
+    position:relative;
+    margin:auto;
+    text-align:center;
+    text-shadow: 4px 4px 4px #000;
+}
+.thirty{
+    font-size:18px;
+}
+.fifty{	
+    font-size:45px;
+}
+.seventy{
+    font-size:60px;
+}
+.description{
+    position:relative;
+}
+.red{
+    color:#a53a3d;
+}
+.line{
+    background-color:#fff;
+    height:2px;
+    max-width:175px;
+    position:relative;
+    z-index:4;
+    box-shadow: 0px 5px #000;	
+}
+#line_r{
+    
+    left:56%;	
+}
+#line_l{
+    
+    left:30%;
+}
+#in{
+    font-size:40px;
+    text-align:center;
+    
+}
+.slideshow:hover{
+    background:url("https://scontent-dft4-2.xx.fbcdn.net/v/t1.0-9/21430151_1443090955759027_7951495026010505596_n.jpg?oh=dcfd7abacd8815e3943595b004758ae8&oe=5AD76A0B");
+    background-position:0 55%;
+    max-width:100%;
+    background-size:cover;
+}
+.bottom_nav{
+}
+.footer{
+    max-width:100%;
+    margin:0px;
+    padding:0px;
+    position:relative;
+    bottom:0px;
+    background-color:#a53a3d;
+    color:#fff;}
+.copyright a{
+    text-decoration:none;
+    color:#fff;
+}
+.copyright a:hover{
+    color:#000;
+}
