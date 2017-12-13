@@ -1,0 +1,32 @@
+.header{
+    background:black;
+    color:white;
+}
+#request{
+    position:fixed;
+    border-radius: 5px 0 0 5px;
+    height:10%;
+    width:10%;
+    text-align: center;
+    right:0;
+    top:20%;
+    background:#a53a3d;
+    color:white;
+
+}
+.footer{
+    background:#a53a3d;
+    bottom:0;
+    color:white;
+}
+.footer .nav .a:hover{
+    color:white;
+    text-decoration: none;
+    color:white;
+}
+.left{
+    float:left;
+}
+.right{
+    float:right;
+}
